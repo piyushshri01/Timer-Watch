@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+}
+.header
+{
+    height: 100vh;
+    position: relative;
+}
+.date{
+      
+    text-align: center;
+    
+    top: 50%;
+    position: absolute;
+    left: 50% ;
+    transform: translate(-50%,-50%);
+} 
